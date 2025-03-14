@@ -1,10 +1,8 @@
 ## Hi there, I'm Carlos Ramírez Torres 👋
 🌱 I’m currently learning in 4GeeksAcademy!!
-<<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NkOGp6b2Y4cXhoYmJmcTFyOHdvb2s3ZGxnM2RsdDJibDhyanZ6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
 </div>
-
-<!--
 **Caarlos3/Caarlos3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
