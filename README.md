@@ -1,6 +1,8 @@
 ## Hi there, I'm Carlos Ramírez Torres 👋
 🌱 I’m currently learning in 4GeeksAcademy!!
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
 
 <!--
 **Caarlos3/Caarlos3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
