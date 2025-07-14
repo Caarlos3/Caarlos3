@@ -1,5 +1,8 @@
 ## Hi there, I'm Carlos Ramírez Torres 👋
-🌱 I’m currently learning in 4GeeksAcademy!!
+🌱 A Full Stack Developer who learned at 4GeeksAcademy!!
+🚀 In continuous learning and personal and technological development.
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caarlos3&show_icons=true&theme=cobalt)](https://github.com/Caarlos3/github-readme-stats)
 
