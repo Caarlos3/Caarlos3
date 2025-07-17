@@ -4,6 +4,10 @@
 🚀 In continuous learning, personal and technological development.
 
 
+🙋‍♂️ Follow me:
+<a href="https://www.linkedin.com/in/carlos-ramírez-torres-4391a226b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
 🚀 Technical skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
