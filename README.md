@@ -4,6 +4,11 @@
 🚀 In continuous learning, personal and technological development.
 
 
+🚀 Technical skills
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caarlos3&show_icons=true&theme=cobalt)](https://github.com/Caarlos3/github-readme-stats)
 
