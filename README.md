@@ -32,9 +32,8 @@
 
 📊 Estadísticas de GitHub
 
-![Carlos Ramírez Torres GitHub stats](https://github-readme-stats.vercel.app/api?username=Caarlos3&show_icons=true&theme=radical&hide_border=true)
-
-![Top lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Caarlos3&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://gh-stats-gen.vercel.app/api?username=Caarlos3&show_icons=true&theme=dark)
+![Top Languages](https://gh-stats-gen.vercel.app/api/top-langs/?username=Caarlos3&layout=compact&theme=dark)
 
 ---
 
