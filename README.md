@@ -1,18 +1,18 @@
 ## Hola a todos, soy Carlos Ramírez Torres 👋
-🌱 Soy un Full Stack Developer apasionado por la creacion de aplicaiones web eficientes, escalables y con buen diseño.
+🌱 Soy un Full Stack Developer apasionado por la creación de aplicaciones web eficientes, escalables y con buen diseño.  
 🚀 En continuo desarrollo personal y profesional, aprendiendo y mejorando mis habilidades.
 
 🙋‍♂️ Follow me:
 
-
-<a href="https://www.linkedin.com/in/carlos-ramírez-torres-4391a226b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/carlos-ramírez-torres-4391a226b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 🌐​ Portfolio:
 
-<a href= "https://mi-porfolio-alpha-five.vercel.app/" target="_blank"></a>
+[![Portfolio](https://img.shields.io/badge/Portafolio-%23007ACC.svg?style=for-the-badge&logo=about.me&logoColor=white)](https://mi-porfolio-alpha-five.vercel.app/)
 
-
-
+---
 
 🚀 Technical skills
 
@@ -28,19 +28,21 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
+---
 
 📊 Estadísticas de GitHub
 
-![Carlos Ramírez Torres GitHub stats](https://github-readme-stats.vercel.app/api?username=Caarlos3&show_icons=true&theme=radical)
+![Carlos Ramírez Torres GitHub stats](https://github-readme-stats.vercel.app/api?username=Caarlos3&show_icons=true&theme=radical&hide_border=true)
 
-![Top lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Caarlos3&layout=compact&theme=radical)
+![Top lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Caarlos3&layout=compact&theme=radical&hide_border=true)
 
+---
 
 📫 Contáctame
 
--Email: crt.981995@gmail.com
+- Email: crt.981995@gmail.com
+
+---
 
 ¡Gracias por visitar mi perfil!
 
