@@ -1,13 +1,15 @@
-## Hi there, I'm Carlos Ramírez Torres 👋
-🌱 A Full Stack Developer who learned at 4GeeksAcademy!!
-
-🚀 In continuous learning, personal and technological development.
-
+## Hola a todos, soy Carlos Ramírez Torres 👋
+🌱 Soy un Full Stack Developer apasionado por la creacion de aplicaiones web eficientes, escalables y con buen diseño.
+🚀 En continuo desarrollo personal y profesional, aprendiendo y mejorando mis habilidades.
 
 🙋‍♂️ Follow me:
 
 
 <a href="https://www.linkedin.com/in/carlos-ramírez-torres-4391a226b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+🌐​ Portfolio:
+
+<a href= "https://mi-porfolio-alpha-five.vercel.app/" target="_blank"></a>
 
 
 
@@ -19,28 +21,27 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-[JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caarlos3&show_icons=true&theme=cobalt)](https://github.com/Caarlos3/github-readme-stats)
+📊 Estadísticas de GitHub
+
+![Carlos Ramírez Torres GitHub stats](https://github-readme-stats.vercel.app/api?username=Caarlos3&show_icons=true&theme=radical)
+
+![Top lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Caarlos3&layout=compact&theme=radical)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caarlos3&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+📫 Contáctame
 
+-Email: crt.981995@gmail.com
 
-<div id="header" align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NkOGp6b2Y4cXhoYmJmcTFyOHdvb2s3ZGxnM2RsdDJibDhyanZ6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" 
-width="100"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25tZ25vYmtneXAyYmw5bDR2bGVnYnpjbmg1dXh3bnYzaWdjdzRmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
-    width="100"/>
-</div>
+¡Gracias por visitar mi perfil!
+
 
