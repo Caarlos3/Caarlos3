@@ -7,7 +7,7 @@
 [mi-porfolio-alpha-five.vercel.app](https://mi-porfolio-alpha-five.vercel.app/)
 
 ### 🔗 LinkedIn
-[carlos-ramírez-torres](https://www.linkedin.com/in/carlos-ram%C3%ADrez-torres-4391a226b/)
+[Carlos Ramírez Torres](https://www.linkedin.com/in/carlos-ram%C3%ADrez-torres-4391a226b/)
 
 ### 🚀 Proyectos destacados
 - 🏋️‍♂️ **LET'S FIT APP** — React + Flask + OpenAI  
