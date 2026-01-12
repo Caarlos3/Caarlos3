@@ -1,48 +1,38 @@
-## Hola a todos, soy Carlos Ramírez Torres 👋
-🌱 Soy un Full Stack Developer apasionado por la creación de aplicaciones web eficientes, escalables y con buen diseño.  
-🚀 En continuo desarrollo personal y profesional, aprendiendo y mejorando mis habilidades.
+## Hola, soy Carlos Ramírez Torres 👋
 
-🙋‍♂️ Follow me:
+🌱 Full Stack Developer enfocado en crear aplicaciones web funcionales, escalables y bien estructuradas.  
+🚀 En continuo aprendizaje, aplicando buenas prácticas de frontend, backend, testing y control de versiones.
 
-<a href="https://www.linkedin.com/in/carlos-ramírez-torres-4391a226b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+### 🌐 Portfolio
+[mi-porfolio-alpha-five.vercel.app](https://mi-porfolio-alpha-five.vercel.app/)
 
-🌐​ Portfolio:
+### 🔗 LinkedIn
+[carlos-ramírez-torres](https://www.linkedin.com/in/carlos-ram%C3%ADrez-torres-4391a226b/)
 
-[![Portfolio](https://img.shields.io/badge/Portafolio-%23007ACC.svg?style=for-the-badge&logo=about.me&logoColor=white)](https://mi-porfolio-alpha-five.vercel.app/)
+### 🚀 Proyectos destacados
+- 🏋️‍♂️ **LET'S FIT APP** — React + Flask + OpenAI  
+  Repo: https://github.com/Caarlos3/LET-S_FIT_APP  
+  Demo: https://let-s-fit-app.vercel.app
 
----
+- 📚 **MANGA.BIBL (Full Stack)** — React + Spring Boot  
+  Repo: https://github.com/Caarlos3/MANGA.BIBL-FULLSTACK  
+  Demo: https://manga-bibl-fullstack.vercel.app
 
-🚀 Technical skills
+- 💻 **Mi Portfolio** — React  
+  Repo: https://github.com/Caarlos3/mi_porfolio  
+  Demo: https://mi-porfolio-alpha-five.vercel.app/
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧰 Tech Stack
+**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Bootstrap  
+**Backend:** Java (Spring Boot, Maven), Python (Flask)  
+**Runtime / Tools:** Node.js, npm  
+**IA:** OpenAI API  
+**Testing:** Jest + React Testing Library  
+**Bases de datos:** SQL (PostgreSQL / H2)  
+**IDEs:** VS Code, IntelliJ IDEA  
+**Control de versiones:** Git & GitHub
 
----
-
-📊 Estadísticas de GitHub
-
-![GitHub Stats](https://gh-stats-gen.vercel.app/api?username=Caarlos3&show_icons=true&theme=dark)
-![Top Languages](https://gh-stats-gen.vercel.app/api/top-langs/?username=Caarlos3&layout=compact&theme=dark)
-
----
-
-📫 Contáctame
-
-- Email: crt.981995@gmail.com
-
----
-
-¡Gracias por visitar mi perfil!
-
+### 📫 Contacto
+- Email: crt.981995@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/carlos-ram%C3%ADrez-torres-4391a226b/
 
