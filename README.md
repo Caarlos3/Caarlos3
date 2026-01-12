@@ -34,5 +34,5 @@
 
 ### 📫 Contacto
 - Email: crt.981995@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/carlos-ram%C3%ADrez-torres-4391a226b/
+
 
