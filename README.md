@@ -40,11 +40,6 @@ A comprehensive Full Stack library management system.
 AI-powered fitness assistant for personalized workout plans.
 *React • Flask • OpenAI* | [Demo](https://let-s-fit-app.vercel.app)
 
----
-
-### 📊 GitHub Stats
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caarlos3&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caarlos3&layout=compact&theme=radical)
 
 ---
 
