@@ -1,38 +1,60 @@
-## Hola, soy Carlos Ramírez Torres 👋
+ # Hi there, I'm Carlos Ramírez Torres 👋 
 
-🌱 Full Stack Developer enfocado en crear aplicaciones web funcionales, escalables y bien estructuradas.  
-🚀 En continuo aprendizaje, aplicando buenas prácticas de frontend, backend, testing y control de versiones.
+### 🚀 Full Stack Developer & Aspiring AI Engineer
+I build functional, scalable, and well-structured web applications. Currently, I'm deep-diving into **AI Orchestration** and **Agentic Workflows**, moving beyond simple CRUDs to build intelligent systems.
 
-### 🌐 Portfolio
-[mi-porfolio-alpha-five.vercel.app](https://mi-porfolio-alpha-five.vercel.app/)
+---
 
-### 🔗 LinkedIn
-[Carlos Ramírez Torres](https://www.linkedin.com/in/carlos-ram%C3%ADrez-torres-4391a226b/)
+### 🧠 Current Focus: AI Development Journey
+I am currently building **[Simple Node AI Engine](https://github.com/Caarlos3/simple-node)**, a modular workflow engine designed to understand the internals of AI automation.
+- 🏗️ **Building:** Node-based AI orchestration.
+- 🧪 **Learning:** Context injection, persistent memory for LLMs, and dynamic routing.
+- 🛠️ **Stack:** Python 3.12, FastAPI, RouteLLM, Tavily API.
 
-### 🚀 Proyectos destacados
-- 🏋️‍♂️ **LET'S FIT APP** — React + Flask + OpenAI  
-  Repo: https://github.com/Caarlos3/LET-S_FIT_APP  
-  Demo: https://let-s-fit-app.vercel.app
+---
 
-- 📚 **MANGA.BIBL (Full Stack)** — React + Spring Boot  
-  Repo: https://github.com/Caarlos3/MANGA.BIBL-FULLSTACK  
-  Demo: https://manga-bibl-fullstack.vercel.app
+### 🛠️ Tech Stack
 
-- 💻 **Mi Portfolio** — React  
-  Repo: https://github.com/Caarlos3/mi_porfolio  
-  Demo: https://mi-porfolio-alpha-five.vercel.app/
+| Category | Technologies |
+| :--- | :--- |
+| **AI & Data** | OpenAI API, RouteLLM, Agentic Workflows, Prompt Engineering |
+| **Backend** | Python (FastAPI, Flask), Java (Spring Boot, Maven), Node.js |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Bootstrap |
+| **Testing** | Pytest, Jest, React Testing Library |
+| **Database** | PostgreSQL, SQL |
+| **Tools** | Git, GitHub, Docker, VS Code, IntelliJ IDEA |
 
-### 🧰 Tech Stack
-**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Bootstrap  
-**Backend:** Java (Spring Boot, Maven), Python (Flask)  
-**Runtime / Tools:** Node.js, npm  
-**IA:** OpenAI API  
-**Testing:** Jest + React Testing Library  
-**Bases de datos:** SQL (PostgreSQL / H2)  
-**IDEs:** VS Code, IntelliJ IDEA  
-**Control de versiones:** Git & GitHub
+---
 
-### 📫 Contacto
-- Email: crt.981995@gmail.com  
+### 🌟 Featured Projects
+
+#### 🤖 [Simple Node AI Engine](https://github.com/Caarlos3/simple-node)
+A modular AI workflow engine with persistent memory and web search capabilities.
+*Python • FastAPI • OpenAI*
+
+#### 📚 [MANGA.BIBL](https://github.com/Caarlos3/MANGA.BIBL-FULLSTACK)
+A comprehensive Full Stack library management system.
+*React • Spring Boot • PostgreSQL* | [Demo](https://manga-bibl-fullstack.vercel.app)
+
+#### 🏋️‍♂️ [LET'S FIT APP](https://github.com/Caarlos3/LET-S_FIT_APP)
+AI-powered fitness assistant for personalized workout plans.
+*React • Flask • OpenAI* | [Demo](https://let-s-fit-app.vercel.app)
+
+---
+
+### 📊 GitHub Stats
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caarlos3&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caarlos3&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with me
+- **Portfolio:** [mi-porfolio-alpha-five.vercel.app](https://mi-porfolio-alpha-five.vercel.app/)
+- **LinkedIn:** [Carlos Ramírez Torres](https://www.linkedin.com/in/carlos-ram%C3%ADrez-torres-4391a226b/)
+- **Email:** [crt.981995@gmail.com](mailto:crt.981995@gmail.com)
+
+---
+
+**"The best way to predict the future is to code it."** 🚀
 
 
